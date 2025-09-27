@@ -13,3 +13,23 @@ Resume/
 │── styles.css
 └── images/
 │── public/
+
+
+---
+
+## 🖼️ Features
+- **Custom Futuristic AW Icon** (favicon + mobile support)
+- **Dark Mode Ready**
+- **Responsive Design** (mobile + desktop)
+- GitHub Pages deployment support
+
+---
+
+## 🔧 Setup & Usage
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/my-website.git
+   cd my-website
+
+
+   
