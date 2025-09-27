@@ -28,8 +28,8 @@ Resume/
 ## 🔧 Setup & Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/my-website.git
-   cd my-website
+   git clone https://github.com/AmtR2/Resume.git
+   cd Resume
 
 
    
