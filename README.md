@@ -8,3 +8,8 @@ A modern and futuristic website project featuring some basic html and css coding
 ---
 
 ## 📂 Project Structure
+Resume/
+│── index.html
+│── styles.css
+└── images/
+│── public/
