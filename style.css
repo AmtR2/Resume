@@ -11,7 +11,7 @@ html {
 body {
     font-family: "Hina Mincho", serif;
     position: relative;
-    background: url("Avif.avif") no-repeat center center fixed;
+    background: url("images/Avif.avif") no-repeat center center fixed;
     background-size: cover;
     font-size: 1rem;
     line-height: 1.7;
