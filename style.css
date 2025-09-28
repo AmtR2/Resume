@@ -329,6 +329,7 @@ background: rgba(255, 255, 255, 0.6); /* translucent background */
 .profile-picture {
     border: 2px solid wheat;
     width: 220px;
+    margin-left: 80px;
     height: auto;
     flex-shrink: 0;
     border-radius: 26px;
