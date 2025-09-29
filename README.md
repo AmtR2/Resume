@@ -12,7 +12,6 @@ Resume/
 │── index.html
 │── styles.css
 └── images/
-│── public/
 
 
 ---
